@@ -4,6 +4,7 @@ public class PrimeNo {
 public static void main(String[] args) {
 	int xx;                                                          
 	int yy = 0;
+	int zz=0;
 	System.out.println("Enter Any Number");                     
 	Scanner sc = new Scanner(System.in);
 	xx = sc.nextInt();
