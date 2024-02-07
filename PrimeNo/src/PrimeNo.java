@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class PrimeNo {
 		
 public static void main(String[] args) {
-	int xx=7;                                                          
+	int xx=12;                                                          
 	int yy = 0;
 	int zz=0;
 	// System.out.println("Enter Any Number");                     
